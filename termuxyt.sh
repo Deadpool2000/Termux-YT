@@ -1,3 +1,10 @@
+# Termux-YT
+
+# Author - D3adpool2K
+
+# github - https://github.com/Deadpool2000
+
+
 #!/data/data/com.termux/files/usr/bin/bash
 
 echo -e "Updating.....\n"
